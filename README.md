@@ -11,3 +11,6 @@ python3.6 baseline_match.py -image images/fontana_1.jpg -query images/fontana_2.
 ## Example 3
 python3.6 baseline_match.py -image images/fontana_1.jpg -query images/book.jpg 
 
+# Dependencies
+opencv-python
+opencv-contrib-python
