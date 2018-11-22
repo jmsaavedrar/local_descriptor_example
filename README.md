@@ -1,5 +1,5 @@
 # local_descriptor_example
-example using sift for local descriptors
+Examples on using SIFT for baseline matching
 ## Example 0
 python3.6 detect_keypoints.py -image images/fontana_1.jpg -query images/book.jpg
 ## Example 1
